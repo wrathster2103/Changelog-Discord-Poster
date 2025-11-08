@@ -1,0 +1,14 @@
+{
+  "entries": [
+    {
+      "id": 1,
+      "title": "Initial release",
+      "author": "BLDR",
+      "date": "2025-11-07",
+      "changes": [
+        "Added changelog poster resource",
+        "Posts changelog to Discord webhook"
+      ]
+    }
+  ]
+}
