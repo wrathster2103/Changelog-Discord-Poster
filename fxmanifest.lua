@@ -10,4 +10,4 @@ server_scripts {
     'changelog.json'
 }
 
--- Add this resource to your server.cfg with: start changelog_poster
+-- Add this resource to your server.cfg with: start Changelog_Discord_Poster
