@@ -6,7 +6,10 @@ description 'Changelog poster to Discord via webhook'
 version '1.0.0'
 
 server_scripts {
-    'server.lua',
+    'server.lua'
+}
+
+files {
     'changelog.json'
 }
 
